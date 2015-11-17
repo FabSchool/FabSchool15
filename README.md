@@ -49,7 +49,7 @@ Questo è il calendario previsto per gli interventi di fabbing nelle scuole:
  - 24 - 30 novembre - IIS Luigi Galvani
  - 26-27 novembre - Liceo Artistico Boccioni
  - 1 dicembre - CFP Associazione CNOS-FAP
- - 1 e 3 dicembre - Liceo Scientifico L. Cremona
+ - 2 e 3 dicembre - Liceo Scientifico L. Cremona
 
 ##Comunicazione
 
